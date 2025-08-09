@@ -1,0 +1,4 @@
+激活虚拟环境
+conda activate clothes
+运行
+python train_efficientnetb0_448_2.py
